@@ -1,5 +1,4 @@
 <h1 align="center">
-API para somar a maior sequencia de elementos em um Array - LARAVEL 
 API to sum the largest sequence of elements in an Array - LARAVEL 🎓</h1>
 
 <br />
